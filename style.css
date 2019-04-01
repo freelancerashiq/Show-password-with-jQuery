@@ -1,0 +1,82 @@
+/* project start */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+	width: 960px;
+	margin: auto;
+}
+h1{
+	color: green;
+	/*font-style: italic;*/
+	/*text-decoration: underline;*/
+	font-family: 'Orbitron', sans-serif;
+}
+.span{
+	font-size: 20px;
+}
+.header,.footer{
+	background: #444345;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+.header h2,.footer h2{
+	font-size: 34px;
+	color: #eee;
+	font-weight: bold;
+	font-family: verdana;
+	margin: 0;
+}
+.main_content{
+	min-height: 430px;
+	background: #DEDDDE;
+	color: #000;
+	padding: 20px;
+	font-size: 18px;
+	overflow: hidden;
+}
+.main_content h2{
+	border-bottom: 1px solid #1D0A83;
+	border-top: 1px solid #1D0A83;
+	padding: 6px 0;
+
+}
+.main_content p{
+	margin: 0;
+}
+.button{
+	width: 100%;
+	border: none;
+}
+button{
+	height: 40px;
+	font-size: 16px;
+}
+.box{
+	height: 200px;
+	width: 200px;
+	background: red;
+	padding: 10px;
+	position: absolute;
+	margin-top: 20px;
+}
